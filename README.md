@@ -17,6 +17,7 @@ I am a Control and Automation Engineer with an MBA in Software Engineering with 
 * [LinkedIn](https://www.linkedin.com/in/josepegerent/)
  <!-- * [Blog]() --> 
  <!-- * [Medium](https://www.medium.com) --> 
+ <!-- * [Outro]() -->
 
 
 ## Projects:
