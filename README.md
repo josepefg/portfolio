@@ -14,9 +14,10 @@ I am a Control and Automation Engineer with an MBA in Software Engineering with 
 **Background in:** Python, Machine Learning, ETL, Embedded Software, C, C++.
 
 **Links:**
-* [Blog]()
 * [LinkedIn](https://www.linkedin.com/in/josepegerent/)
-* [Medium](https://www.medium.com)
+ <!--- 
+* [Blog]()
+* [Medium](https://www.medium.com) ---> 
 
 
 ## Projects:
