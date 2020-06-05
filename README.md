@@ -7,11 +7,11 @@
 # Josepe Franco Gerent
 <sub>*Lead Data Scientist* at Oston</sub>
 
-As an experienced Data Scientist I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to several business problems, I developed a critical thinking and problem-solving skills.
+As an experienced Data Scientist I combine analytical skills, ability to work in team environments and attention to details. Having spend the last years applying Machine Learning to several business problems, I developed a critical thinking and problem-solving skills.
 
 I am a Control and Automation Engineer with an MBA in Software Engineering with Agile Methodolgies and a Specialization in Data Science.
 
-**Background in:** Python, Machine Learning, ETL, Embedded Software, C, C++.
+**Background in:** Python, R, C, C++, C#, Machine Learning, ETL, and Embedded Software.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/josepegerent/)
