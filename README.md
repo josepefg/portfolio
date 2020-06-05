@@ -19,10 +19,10 @@ I am a Control and Automation Engineer with an MBA in Software Engineering with 
 * [Medium](https://www.medium.com)
 
 
-## Projetos:
-Veja meus projetos publicados:
+## Projects:
+My published projects:
 
-* **Projeto teste:** https://google.com
+* **[Kaggle Titanic Challenge](https://github.com/josepefg/kaggle/blob/master/Titanic.ipynb)** 
 
 
 ---
