@@ -7,7 +7,7 @@
 # Josepe Franco Gerent
 <sub>*Lead Data Scientist* at Oston</sub>
 
-As a experienced Data Scientist I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian several business problems, I developed a critical thinking and problem-solving skills.
+As a experienced Data Scientist I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to several business problems, I developed a critical thinking and problem-solving skills.
 
 I am a Control and Automation Engineer with an MBA in Software Engineering with Agile Methodolgies and a Specialization in Data Science.
 
@@ -19,10 +19,10 @@ I am a Control and Automation Engineer with an MBA in Software Engineering with 
 * [Medium](https://www.medium.com)
 
 
-## Projetos:
-Veja meus projetos publicados:
+## Projects:
+My published projects:
 
-* **Projeto teste:** https://google.com
+* **[Kaggle Titanic Challenge](https://github.com/josepefg/kaggle/blob/master/Titanic.ipynb)** 
 
 
 ---
