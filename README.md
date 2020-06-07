@@ -7,10 +7,10 @@
 # Josepe Franco Gerent
 <sub>*Cientista de dados* na Oston</sub>
 
-## OBJETIVO 
+### OBJETIVO 
 Ciência de Dados, Machine Learning, Inteligência Artificial e Big Data.
 
-## RESUMO 
+### RESUMO 
 Engenheiro de Controle e Automação formado na PUCRS, com parte dos estudos realizados na University of Technology Sydney – Faculty of Science, Austrália. Especialista em Ciência de Dados e Engenharia de Software com Métodos Ágeis. Possuo experiência profissional como desenvolvedor C, C++, C#, Python, R, liderança de equipes e gerenciamento de projetos. Atualmente trabalho como Cientista de Dados.
 
 **Experiência em:** Python, R, C, C++, C#, Machine Learning, ETL, e Software Embarcado.
