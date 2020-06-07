@@ -5,13 +5,13 @@
 </p>
 
 # Josepe Franco Gerent
-<sub>*Lead Data Scientist* at Oston</sub>
+<sub>*Cientista de dados* na Oston</sub>
 
 As an experienced Data Scientist I combine analytical skills, ability to work in team environments and attention to details. Having spend the last years applying Machine Learning to several business problems, I developed a critical thinking and problem-solving skills.
 
 I am a Control and Automation Engineer with an MBA in Software Engineering with Agile Methodolgies and a Specialization in Data Science.
 
-**Background in:** Python, R, C, C++, C#, Machine Learning, ETL, and Embedded Software.
+**Experiência em:** Python, R, C, C++, C#, Machine Learning, ETL, e Software Embarcado.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/josepegerent/)
@@ -20,10 +20,10 @@ I am a Control and Automation Engineer with an MBA in Software Engineering with 
  <!-- * [Outro]() -->
 
 
-## Projects:
-My published projects:
+## Projetos:
+Meus projetos publicados:
 
-* **[Kaggle Titanic Challenge](https://github.com/josepefg/kaggle/blob/master/Titanic.ipynb)** 
+* **[Desafio do Titanic do Kaggle](https://github.com/josepefg/kaggle/blob/master/Titanic.ipynb)** 
 
 
 ---
