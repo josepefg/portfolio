@@ -8,10 +8,11 @@
 <sub>*Lead Data Scientist* at Oston</sub>
 
 ### OBJECTIVE 
-Ciência de Dados, Machine Learning, Inteligência Artificial e Big Data.
+Data Science, Machine Learning, Artificial Intelligence and Big Data.
 
 ### SUMMARY 
-Engenheiro de Controle e Automação formado na PUCRS, com parte dos estudos realizados na University of Technology Sydney – Faculty of Science, Austrália. Especialista em Ciência de Dados e Engenharia de Software com Métodos Ágeis. Possuo experiência profissional como desenvolvedor C, C++, C#, Python, R, liderança de equipes e gerenciamento de projetos. Atualmente trabalho como Cientista de Dados.
+Control and Automation Engineer with part my studies made at University of Technology Sydney. Specialist in Data Science and in Software Engineering with Agile Methodolgies. I have professional experience as a developer with C, C++, C#, Python and R, team leadership and project management. I currently work as a Data Scientist.
+
 **Background in:** Python, R, C, C++, C#, Machine Learning, ETL, and Embedded Software.
 
 **Links:**
