@@ -7,10 +7,11 @@
 # Josepe Franco Gerent
 <sub>*Lead Data Scientist* at Oston</sub>
 
-As an experienced Data Scientist I combine analytical skills, ability to work in team environments and attention to details. Having spend the last years applying Machine Learning to several business problems, I developed a critical thinking and problem-solving skills.
+### OBJECTIVE 
+Ciência de Dados, Machine Learning, Inteligência Artificial e Big Data.
 
-I am a Control and Automation Engineer with an MBA in Software Engineering with Agile Methodolgies and a Specialization in Data Science.
-
+### SUMMARY 
+Engenheiro de Controle e Automação formado na PUCRS, com parte dos estudos realizados na University of Technology Sydney – Faculty of Science, Austrália. Especialista em Ciência de Dados e Engenharia de Software com Métodos Ágeis. Possuo experiência profissional como desenvolvedor C, C++, C#, Python, R, liderança de equipes e gerenciamento de projetos. Atualmente trabalho como Cientista de Dados.
 **Background in:** Python, R, C, C++, C#, Machine Learning, ETL, and Embedded Software.
 
 **Links:**
