@@ -26,7 +26,8 @@ Engenheiro de Controle e Automação formado na PUCRS, com parte dos estudos rea
 ## Projetos:
 Meus projetos publicados:
 
-* **[Desafio do Titanic do Kaggle](https://github.com/josepefg/kaggle/blob/master/Titanic.ipynb)** 
+* **[Desafio do Titanic do Kaggle](https://github.com/josepefg/kaggle/blob/master/Titanic.ipynb)**  
+* **[Desafio do Titanic do Kaggle para iniciantes](https://github.com/josepefg/kaggle/blob/master/Titanic_Iniciantes.ipynb)**  
 
 
 ---
