@@ -17,9 +17,10 @@ Engenheiro de Controle e Automação formado na PUCRS, com parte dos estudos rea
 **Experiência em:** Python, R, C, C++, C#, Machine Learning, ETL, e Software Embarcado.
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/josepegerent/)
+* [LinkedIn](https://www.linkedin.com/in/josepegerent/)  
+* [Medium](https://medium.com/@josepe.gerentm)  
+  * [Desafio do Titanic para iniciantes](https://medium.com/@josepe.gerent/desafio-do-titanic-para-iniciantes-91c0eb478ec?sk=b4d6a774b1a1582aeef1a4a3e3aeb8fd)
  <!-- * [Blog]() --> 
- <!-- * [Medium](https://www.medium.com) --> 
  <!-- * [Outro]() -->
 
 
