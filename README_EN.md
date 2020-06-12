@@ -16,19 +16,23 @@ Control and Automation Engineer with part my studies made at University of Techn
 **Background in:** Python, R, C, C++, C#, Machine Learning, ETL, and Embedded Software.
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/josepegerent/)
+* [LinkedIn](https://www.linkedin.com/in/josepegerent/)  
+<!-- * [Desafio do Titanic para iniciantes](https://www.linkedin.com/pulse/desafio-do-titanic-para-iniciantes-josepe-franco-gerent) --> 
+* [Medium](https://medium.com/@josepe.gerent)  
+  * [Desafio do Titanic para iniciantes](https://medium.com/@josepe.gerent/desafio-do-titanic-para-iniciantes-91c0eb478ec?sk=b4d6a774b1a1582aeef1a4a3e3aeb8fd)
  <!-- * [Blog]() --> 
- <!-- * [Medium](https://www.medium.com) --> 
  <!-- * [Outro]() -->
 
 
 ## Projects:
 My published projects:
 
-* **[Kaggle Titanic Challenge](https://github.com/josepefg/kaggle/blob/master/Titanic.ipynb)** 
+* **[Desafio do Titanic do Kaggle](https://github.com/josepefg/kaggle/blob/master/Titanic.ipynb)**  
+* **[Desafio do Titanic do Kaggle para iniciantes](https://github.com/josepefg/kaggle/blob/master/Titanic_Iniciantes.ipynb)**  
 
 
 ---
+
 
 
 
