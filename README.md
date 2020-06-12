@@ -18,7 +18,7 @@ Engenheiro de Controle e Automação formado na PUCRS, com parte dos estudos rea
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/josepegerent/)  
-* [Medium](https://medium.com/@josepe.gerentm)  
+* [Medium](https://medium.com/@josepe.gerent)  
   * [Desafio do Titanic para iniciantes](https://medium.com/@josepe.gerent/desafio-do-titanic-para-iniciantes-91c0eb478ec?sk=b4d6a774b1a1582aeef1a4a3e3aeb8fd)
  <!-- * [Blog]() --> 
  <!-- * [Outro]() -->
