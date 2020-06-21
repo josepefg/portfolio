@@ -29,7 +29,7 @@ My published projects:
 
 * **[Kaggle's Titanic Challenge](https://github.com/josepefg/kaggle/blob/master/Titanic.ipynb)**  
 * **[Kaggle's Titanic Challenge for beginners](https://github.com/josepefg/kaggle/blob/master/Titanic_Iniciantes.ipynb)**  
-* **[Sydney Airbnb data Analysis](https://github.com/josepefg/analises-de-dados/blob/master/airbnb/Airbnb_Sydney.ipynb)**
+* **[Sydney Airbnb Data Analysis](https://github.com/josepefg/analises-de-dados/blob/master/airbnb/Airbnb_Sydney.ipynb)**
 
 
 
