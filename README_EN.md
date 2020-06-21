@@ -27,8 +27,10 @@ Control and Automation Engineer with part my studies made at University of Techn
 ## Projects:
 My published projects:
 
-* **[Desafio do Titanic do Kaggle](https://github.com/josepefg/kaggle/blob/master/Titanic.ipynb)**  
-* **[Desafio do Titanic do Kaggle para iniciantes](https://github.com/josepefg/kaggle/blob/master/Titanic_Iniciantes.ipynb)**  
+* **[Kaggle's Titanic Challenge](https://github.com/josepefg/kaggle/blob/master/Titanic.ipynb)**  
+* **[Kaggle's Titanic Challenge for beginners](https://github.com/josepefg/kaggle/blob/master/Titanic_Iniciantes.ipynb)**  
+* **[Sydney Airbnb data Analysis](https://github.com/josepefg/analises-de-dados/blob/master/airbnb/Airbnb_Sydney.ipynb)**
+
 
 
 ---
