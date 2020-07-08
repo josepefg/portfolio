@@ -20,6 +20,7 @@ Control and Automation Engineer with part my studies made at University of Techn
 <!-- * [Desafio do Titanic para iniciantes](https://www.linkedin.com/pulse/desafio-do-titanic-para-iniciantes-josepe-franco-gerent) --> 
 * [Medium](https://medium.com/@josepe.gerent)  
   * [Desafio do Titanic para iniciantes](https://medium.com/@josepe.gerent/desafio-do-titanic-para-iniciantes-91c0eb478ec?sk=b4d6a774b1a1582aeef1a4a3e3aeb8fd)
+  * [Airbnb Data Analysis](https://medium.com/@josepe.gerent/an%C3%A1lise-dos-dados-do-airbnb-de-sydney-e7a283e694ed?source=friends_link&sk=c245c77d5f38709bed4dea0ae740d2a2)
  <!-- * [Blog]() --> 
  <!-- * [Outro]() -->
 
