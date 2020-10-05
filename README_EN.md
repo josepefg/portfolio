@@ -11,7 +11,7 @@
 Data Science, Machine Learning, Artificial Intelligence and Big Data.
 
 ### SUMMARY 
-Control and Automation Engineer with part my studies made at University of Technology Sydney. Specialist in Data Science and in Software Engineering with Agile Methodolgies. I have professional experience as a developer with C, C++, C#, Python and R, team leadership and project management. I currently work as a Data Scientist.
+Control and Automation Engineer with part my studies made at University of Technology Sydney. Specialist in Data Science and in Software Engineering with Agile Methodolgies. I have professional experience as a Data Scientist, Data Engineer, developer with C, C++, C#, Python and R, team leadership and coordination, and project management. I currently work as a Data Scientist.
 
 **Background in:** Python, R, C, C++, C#, Machine Learning, ETL, and Embedded Software.
 
