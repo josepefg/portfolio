@@ -5,7 +5,7 @@
 </p>
 
 # Josepe Franco Gerent
-<sub>*Lead Data Scientist* at Oston</sub>
+<sub>*Lead Data Scientist* at A-Players</sub>
 
 ### OBJECTIVE 
 Data Science, Machine Learning, Artificial Intelligence and Big Data.
