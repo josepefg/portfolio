@@ -6,7 +6,7 @@
 </p>
 
 # Josepe Franco Gerent
-<sub>*Cientista de dados* na Oston</sub>
+<sub>*Cientista de dados* na A-Players</sub>
 
 ### OBJETIVO 
 Ciência de Dados, Machine Learning, Inteligência Artificial e Big Data.
