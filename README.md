@@ -17,11 +17,11 @@ Engenheiro de Controle e Automação formado na PUCRS, com parte dos estudos rea
 **Experiência em:** Python, R, C, C++, C#, Machine Learning, ETL, e Software Embarcado.
 
 **Links:**
-* [LinkedIn](http://bit.ly/jfg-linkedin)  
+* [LinkedIn](https://bit.ly/jfg-linkedin)  
 <!-- * [Desafio do Titanic para iniciantes](https://www.linkedin.com/pulse/desafio-do-titanic-para-iniciantes-josepe-franco-gerent) --> 
 * [Medium](https://bit.ly/jfg-medium)  
   * [Desafio do Titanic para iniciantes](https://bit.ly/2OlcG7q)
-  * [Análise de Dados do Airbnb](http://bit.ly/3a9CjAA)
+  * [Análise de Dados do Airbnb](https://bit.ly/3a9CjAA)
  <!-- * [Blog]() --> 
  <!-- * [Outro]() -->
 
@@ -29,9 +29,9 @@ Engenheiro de Controle e Automação formado na PUCRS, com parte dos estudos rea
 ## Projetos:
 Meus projetos publicados:
 
-* **[Desafio do Titanic do Kaggle](http://bit.ly/3qcJCgA)**  
-* **[Desafio do Titanic do Kaggle para iniciantes](http://bit.ly/3qgmcqK)**  
-* **[Análise de dados do Airbnb em Sydney](http://bit.ly/3jGmcxt)**
+* **[Desafio do Titanic do Kaggle](https://bit.ly/3qcJCgA)**  
+* **[Desafio do Titanic do Kaggle para iniciantes](https://bit.ly/3qgmcqK)**  
+* **[Análise de dados do Airbnb em Sydney](https://bit.ly/3jGmcxt)**
 
 
 ---
