@@ -17,11 +17,11 @@ Engenheiro de Controle e Automação formado na PUCRS, com parte dos estudos rea
 **Experiência em:** Python, R, C, C++, C#, Machine Learning, ETL, e Software Embarcado.
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/josepegerent/)  
+* [LinkedIn](http://bit.ly/jfg-linkedin)  
 <!-- * [Desafio do Titanic para iniciantes](https://www.linkedin.com/pulse/desafio-do-titanic-para-iniciantes-josepe-franco-gerent) --> 
-* [Medium](https://medium.com/@josepe.gerent)  
-  * [Desafio do Titanic para iniciantes](https://medium.com/@josepe.gerent/desafio-do-titanic-para-iniciantes-91c0eb478ec?sk=b4d6a774b1a1582aeef1a4a3e3aeb8fd)
-  * [Análise de Dados do Airbnb](https://medium.com/@josepe.gerent/an%C3%A1lise-dos-dados-do-airbnb-de-sydney-e7a283e694ed?source=friends_link&sk=c245c77d5f38709bed4dea0ae740d2a2)
+* [Medium](https://bit.ly/jfg-medium)  
+  * [Desafio do Titanic para iniciantes](https://bit.ly/2OlcG7q)
+  * [Análise de Dados do Airbnb](http://bit.ly/3a9CjAA)
  <!-- * [Blog]() --> 
  <!-- * [Outro]() -->
 
@@ -29,9 +29,9 @@ Engenheiro de Controle e Automação formado na PUCRS, com parte dos estudos rea
 ## Projetos:
 Meus projetos publicados:
 
-* **[Desafio do Titanic do Kaggle](https://github.com/josepefg/kaggle/blob/master/Titanic.ipynb)**  
-* **[Desafio do Titanic do Kaggle para iniciantes](https://github.com/josepefg/kaggle/blob/master/Titanic_Iniciantes.ipynb)**  
-* **[Análise de dados do Airbnb em Sydney](https://github.com/josepefg/analises-de-dados/blob/master/airbnb/Airbnb_Sydney.ipynb)**
+* **[Desafio do Titanic do Kaggle](http://bit.ly/3qcJCgA)**  
+* **[Desafio do Titanic do Kaggle para iniciantes](http://bit.ly/3qgmcqK)**  
+* **[Análise de dados do Airbnb em Sydney](http://bit.ly/3jGmcxt)**
 
 
 ---
