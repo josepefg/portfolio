@@ -32,6 +32,7 @@ Meus projetos publicados:
 * **[Desafio do Titanic do Kaggle](https://bit.ly/3qcJCgA)**  
 * **[Desafio do Titanic do Kaggle para iniciantes](https://bit.ly/3qgmcqK)**  
 * **[Análise de dados do Airbnb em Sydney](https://bit.ly/3jGmcxt)**
+* **[Detecção de Fraudes em Cartões de Crédito](https://github.com/josepefg/kaggle/blob/master/Credit_Card_Fraud_Detection.ipynb)**
 
 
 ---
