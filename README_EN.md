@@ -31,6 +31,7 @@ My published projects:
 * **[Kaggle's Titanic Challenge](http://bit.ly/3qcJCgA)**  
 * **[Kaggle's Titanic Challenge for beginners](http://bit.ly/3qgmcqK)**  
 * **[Sydney Airbnb Data Analysis](http://bit.ly/3jGmcxt)**
+* **[Credit Card Fraud Detection](http://bit.ly/3uYUL7n)**
 
 
 
