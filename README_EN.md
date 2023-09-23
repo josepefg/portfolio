@@ -8,7 +8,7 @@
 <sub>*Lead Data Scientist*</sub>
 
 ### OBJECTIVE 
-Data Science, Machine Learning, Artificial Intelligence and Big Data.
+Data Science, Machine Learning and Artificial Intelligence.
 
 ### SUMMARY 
 Control and Automation Engineer with part my studies made at University of Technology Sydney. Specialist in Data Science and in Software Engineering with Agile Methodolgies. I have professional experience as a Data Scientist, Data Engineer, developer with C, C++, C#, Python and R, team leadership and coordination, and project management. I currently work as a Data Scientist.
