@@ -6,10 +6,10 @@
 </p>
 
 # Josepe Franco Gerent
-<sub>*Cientista de dados* na A-Players</sub>
+<sub>*Cientista de dados*</sub>
 
 ### OBJETIVO 
-Ciência de Dados, Machine Learning, Inteligência Artificial e Big Data.
+Ciência de Dados, Machine Learning e Inteligência Artificial.
 
 ### RESUMO 
 Engenheiro de Controle e Automação formado na PUCRS, com parte dos estudos realizados na University of Technology Sydney – Faculty of Science, Austrália. Especialista em Ciência de Dados e Engenharia de Software com Métodos Ágeis. Possuo experiência profissional como Cientista de Dados, Engenheiro de Dados, desenvolvedor C, C++, C#, Python, R, liderança e coordenação de equipes e gerenciamento de projetos. Atualmente trabalho como Cientista de Dados.
@@ -33,6 +33,7 @@ Meus projetos publicados:
 * **[Desafio do Titanic do Kaggle para iniciantes](https://bit.ly/3qgmcqK)**  
 * **[Análise de dados do Airbnb em Sydney](https://bit.ly/3jGmcxt)**
 * **[Detecção de Fraudes em Cartões de Crédito](http://bit.ly/3uYUL7n)**
+* **[Desafio do MNIST](https://bit.ly/3ZxqT1B)**
 
 
 ---
