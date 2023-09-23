@@ -1,11 +1,11 @@
-[![author](https://img.shields.io/badge/author-josepefg-red.svg)](https://bit.ly/jfg-linkedin) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues) [<img src="https://img.shields.io/badge/Idioma-Portugu%C3%AAs-green">](README.md)
+[![author](https://img.shields.io/badge/author-josepefg-red.svg)](https://bit.ly/jfg-linkedin) [![](https://img.shields.io/badge/python-3.11+-blue.svg)]https://www.python.org/downloads/release/python-3115/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues) [<img src="https://img.shields.io/badge/Idioma-Portugu%C3%AAs-green">](README.md)
 
 <p align="center">
   <img src="cover.png" >
 </p>
 
 # Josepe Franco Gerent
-<sub>*Lead Data Scientist* at A-Players</sub>
+<sub>*Lead Data Scientist*</sub>
 
 ### OBJECTIVE 
 Data Science, Machine Learning, Artificial Intelligence and Big Data.
